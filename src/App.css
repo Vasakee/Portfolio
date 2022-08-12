@@ -122,7 +122,7 @@ html{
   font-size: 20px;
   font-family: monospace;
   font-weight: 500;
-  width: 10cm;
+
   margin: auto;
   margin-bottom: 4cm;
 }
@@ -213,6 +213,7 @@ html{
   background-size: cover;
   padding: 0 1em;
   max-width: 60rem;
+  min-width: 15rem;
   margin: 0 auto;
   margin-bottom: 4cm;
   color: white;
