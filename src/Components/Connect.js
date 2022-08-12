@@ -13,10 +13,10 @@ function Connect ({executeScroll,div5}) {
     Aos.init({ duration: 2000 })
   })
   return (
-    <div className='link-up'>
+    <div >
       <div className='top'>
       <h2 className='flows'>It's now time for me to know you.</h2>
-       <div>let's connect through any of my social network handles </div> 
+       <div className='hmu'>let's connect through any of my social network handles </div> 
        </div>
      <div className='socials'>  
     <a href='https://twitter.com/Vasco_Dayigil?t=8mvieti1AySDjgZyFVwgOg&s=09' data-aos='zoom-left' className='chat'><img src={twitter} className='pic' alt='pic' /></a> <br />

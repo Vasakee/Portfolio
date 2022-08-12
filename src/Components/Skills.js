@@ -13,7 +13,7 @@ function Skills() {
     Aos.init({ duration: 1000 })
   })
   return (
-    <div className='abilities'>
+    <div >
      <h1 className='skill'>Services</h1>
     <ul className='spec'> 
     <div className='wd'>
